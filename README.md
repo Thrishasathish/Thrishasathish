@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thrisha</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">Python & JavaScript | Full Stack Developer | AI-powered Application Builder 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishasathish&label=Profile%20views&color=0e75b6&style=flat" alt="thrishasathish" /> </p>
 
-- 🔭 I’m currently working on **Flutter project**
 
-- 🌱 I’m currently learning **Flutter,firebase**
-
+- 🔭 I’m currently working on **AI-powered Full Stack applications**
+- 🌱 I’m currently learning **Backend, AI & System Design**
+- 💡 I love building **AI-driven applications and scalable systems**
+- ⚡ Skilled in **React, Node.js, MongoDB, Python, OpenAI APIs**
 - 📫 How to reach me **thrisha2600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
