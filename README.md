@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thrisha</h1>
 
 <h3 align="center">
-Full Stack Developer | Python & JavaScript | AI-powered Application Builder 🚀
+ Python & JavaScript |Full Stack Developer | AI-powered Application Builder 🚀
 </h3>
 
 <p align="left"> 
@@ -72,7 +72,7 @@ Full Stack Developer | Python & JavaScript | AI-powered Application Builder 🚀
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thrishasathish&show_icons=true&hide=c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thrishasathish&show_icons=true&hide=c,html,css" />
 </p>
 
 <p>
